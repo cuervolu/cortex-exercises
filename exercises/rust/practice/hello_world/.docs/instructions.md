@@ -1,12 +1,27 @@
-# Hello World
+# 👋 ¡Hola, Mundo! 🌍
 
-The classical introductory exercise. Just say "Hello, World!".
+¡Bienvenido a tu primera aventura en el mundo de la programación! 🚀
 
-["Hello, World!"](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program) is the traditional first program for beginning programming in a new language or environment.
+## 🎯 Tu Misión
 
-The objectives are simple:
+Tu misión, si decides aceptarla, es simple pero legendaria:
+1. Crea un programa que diga "¡Hola, Mundo!" (o "Hello, World!" en inglés).
+2. ¡Hazlo funcionar sin errores!
 
-- Write a function that returns the string "Hello, World!".
-- Run the test suite and make sure that it succeeds.
+Suena fácil, ¿verdad? ¡Pues este pequeño programa es el primer paso de todo gran programador!
 
-If everything goes well, you will be ready to fetch your first real exercise.
+## 🤔 ¿Por qué "Hola, Mundo!"?
+
+Imagina que tu programa es un bebé robot que acaba de abrir los ojos. ¿Qué sería lo primero que le enseñarías a decir? ¡Exacto, "Hola, Mundo!"
+
+Es una tradición que comenzó en 1978 y desde entonces, ¡millones de programadores han empezado así!
+
+## 🚦 Pasos a seguir
+
+1. Crea una función llamada `hello`.
+2. Haz que esa función devuelva el mensaje "Hello, World!".
+3. Ejecuta las pruebas y asegúrate de que todo esté en verde.
+
+## 🎉 ¿Listo?
+
+Si lo logras, ¡felicidades! Acabas de unirte a una tradición de más de 40 años. ¡Ahora estás listo para tu próximo desafío!

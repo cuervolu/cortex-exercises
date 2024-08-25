@@ -1,6 +1,7 @@
-# Hints
+## 💡 Pistas
 
-Return the string "Hello, World!".
+- La función `hello` debe devolver un `String`.
+- En Rust, puedes crear un String así: `String::from("Tu texto aquí")`.
+- ¡No te olvides del signo de exclamación al final!
 
-To get the tests to pass, you'll need to create a function called `hello` that returns a string.
-   
+¡Buena suerte, futuro genio de la programación! 💻✨
