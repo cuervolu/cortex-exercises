@@ -2,9 +2,21 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/exercises/practice/hello_world/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/exercises/practice/hello_world/tests" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/exercises/practice/hello_world/target" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/rust/practice/anagram/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/rust/practice/anagram/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/rust/practice/gigasecond/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/rust/practice/gigasecond/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/rust/practice/hello_world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/rust/practice/hello_world/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/rust/practice/reverse_string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/rust/practice/reverse_string/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/rust/practice/space-age/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/rust/practice/space-age/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/exercises/rust/practice/anagram/target" />
+      <excludeFolder url="file://$MODULE_DIR$/exercises/rust/practice/gigasecond/target" />
+      <excludeFolder url="file://$MODULE_DIR$/exercises/rust/practice/hello_world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/exercises/rust/practice/reverse_string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/exercises/rust/practice/space-age/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
