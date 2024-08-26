@@ -1,0 +1,10 @@
+{
+  "name": "@cortex-ts-exercises/reverse-string",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./src/reverse-string.ts",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  }
+}
