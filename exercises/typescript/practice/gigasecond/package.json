@@ -1,0 +1,10 @@
+{
+  "name": "@cortex-ts-exercises/gigasecond",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./src/gigasecond.ts",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  }
+}
