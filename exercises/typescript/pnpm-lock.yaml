@@ -23,6 +23,8 @@ importers:
 
   practice/hello-world: {}
 
+  practice/reverse-string: {}
+
 packages:
 
   '@ampproject/remapping@2.3.0':
