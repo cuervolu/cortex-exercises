@@ -1,0 +1,10 @@
+{
+  "name": "@cortex-ts-exercises/anagram",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./src/anagram.ts",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  }
+}
