@@ -1,4 +1,5 @@
 title: "Hello World"
 points: 180
 creator: "cuervolu"
-lesson_id: 2
+lesson_slug: "tu-primera-taza-de-java"
+display_order: 1

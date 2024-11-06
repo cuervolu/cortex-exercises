@@ -1,4 +1,5 @@
 title: "Space Age"
 points: 300
 creator: "cuervolu"
-lesson_id: 2
+lesson_slug: "java-para-ninos"
+display_order: 3
