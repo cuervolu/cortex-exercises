@@ -18,7 +18,7 @@ prerequisites:
       slug: "hello-world-rust"
       reason: "Basic Rust syntax"
     - name: "Gigasecond"
-      slug: "gigasecond"
+      slug: "gigasecond-rust"
       reason: "Working with types and traits"
 tags:
   concepts:
