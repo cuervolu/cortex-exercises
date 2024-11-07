@@ -15,7 +15,7 @@ content:
 prerequisites:
   required:
     - name: "Hello World"
-      slug: "hello-world"
+      slug: "hello-world-typescript"
       reason: "Basic TypeScript syntax and string handling"
 tags:
   concepts:

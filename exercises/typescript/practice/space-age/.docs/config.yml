@@ -15,10 +15,10 @@ content:
 prerequisites:
   required:
     - name: "Hello World"
-      slug: "hello-world"
+      slug: "hello-world-typescript"
       reason: "Basic TypeScript syntax"
     - name: "Gigasecond"
-      slug: "gigasecond"
+      slug: "gigasecond-typescript"
       reason: "Working with types and calculations"
 tags:
   concepts:
