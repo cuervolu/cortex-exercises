@@ -15,7 +15,7 @@ content:
 prerequisites:
   required:
     - name: "Hello World"
-      slug: "hello-world"
+      slug: "hello-world-rust"
       reason: "Basic Rust syntax"
     - name: "Gigasecond"
       slug: "gigasecond"
