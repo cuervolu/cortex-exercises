@@ -1,5 +1,26 @@
 title: "Anagram"
-points: 100
-creator: "cuervolu"
-lesson_slug: "explorando-un-mundo-desconocido"
-display_order: 1
+meta:
+  name: "anagram"
+  language: "python"
+  category: "strings"
+  completion_time: "30 minutes"
+  review_status: "beta"
+content:
+  points: 100
+  creator: "cuervolu"
+  lesson_slug: "explorando-un-mundo-desconocido"
+  display_order: 1
+  difficulty: "BEGINNER"
+  estimated_time: 30
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic string manipulation"
+tags:
+  concepts:
+    - "strings"
+    - "loops"
+  techniques:
+    - "string manipulation"
+    - "sorting"

@@ -1,5 +1,20 @@
 title: "Hello, World!"
-points: 50
-creator: "cuervolu"
-lesson_slug: "python-la-serpiente-amistosa-del-codigo"
-display_order: 1
+meta:
+  name: "hello_world"
+  language: "python"
+  category: "basics"
+  completion_time: "10 minutes"
+  review_status: "beta"
+content:
+  points: 50
+  creator: "cuervolu"
+  lesson_slug: "python-la-serpiente-amistosa-del-codigo"
+  display_order: 1
+  difficulty: "BEGINNER"
+  estimated_time: 10
+tags:
+  concepts:
+    - "basics"
+    - "strings"
+  techniques:
+    - "string manipulation"

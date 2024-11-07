@@ -1,5 +1,26 @@
 title: "Reverse String"
-points: 120
-creator: "cuervolu"
-lesson_slug: "explorando-un-mundo-desconocido"
-display_order: 2
+meta:
+  name: "reverse_string"
+  language: "python"
+  category: "strings"
+  completion_time: "20 minutes"
+  review_status: "beta"
+content:
+  points: 120
+  creator: "cuervolu"
+  lesson_slug: "explorando-un-mundo-desconocido"
+  display_order: 2
+  difficulty: "BEGINNER"
+  estimated_time: 20
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic string concepts"
+tags:
+  concepts:
+    - "strings"
+    - "iteration"
+  techniques:
+    - "string manipulation"
+    - "array operations"

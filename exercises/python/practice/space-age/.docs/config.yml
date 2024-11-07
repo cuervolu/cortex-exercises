@@ -1,5 +1,26 @@
 title: "Space Age"
-points: 230
-creator: "cuervolu"
-lesson_slug: "explorando-un-mundo-desconocido"
-display_order: 4
+meta:
+  name: "space_age"
+  language: "python"
+  category: "math"
+  completion_time: "60 minutes"
+  review_status: "beta"
+content:
+  points: 230
+  creator: "cuervolu"
+  lesson_slug: "explorando-un-mundo-desconocido"
+  display_order: 4
+  difficulty: "INTERMEDIATE"
+  estimated_time: 60
+prerequisites:
+  required:
+    - name: "Gigasecond"
+      slug: "gigasecond"
+      reason: "Time calculations"
+tags:
+  concepts:
+    - "math"
+    - "object-oriented"
+  techniques:
+    - "arithmetic operations"
+    - "class methods"
