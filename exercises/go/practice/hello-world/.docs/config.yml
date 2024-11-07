@@ -1,4 +1,23 @@
 title: "Hello World"
-points: 200
-creator: "cuervolu"
-lesson_id: 3
+meta:
+  name: "hello_world"
+  language: "go"
+  category: "basics"
+  completion_time: "25 minutes"
+  review_status: "beta"
+content:
+  points: 200
+  creator: "cuervolu"
+  lesson_slug: "go-primeros-pasos"
+  display_order: 1
+  difficulty: "BEGINNER"
+  estimated_time: 25
+tags:
+  concepts:
+    - "packages"
+    - "functions"
+    - "exports"
+  techniques:
+    - "string handling"
+    - "package main"
+    - "fmt package"

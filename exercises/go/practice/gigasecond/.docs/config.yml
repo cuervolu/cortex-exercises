@@ -1,4 +1,28 @@
 title: "Gigasecond"
-points: 240
-creator: "cuervolu"
-lesson_id: 3
+meta:
+  name: "gigasecond"
+  language: "go"
+  category: "time"
+  completion_time: "35 minutes"
+  review_status: "beta"
+content:
+  points: 240
+  creator: "cuervolu"
+  lesson_slug: "go-primeros-pasos"
+  display_order: 4
+  difficulty: "INTERMEDIATE"
+  estimated_time: 35
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Go syntax"
+tags:
+  concepts:
+    - "time"
+    - "packages"
+    - "methods"
+  techniques:
+    - "time manipulation"
+    - "time.Time"
+    - "duration calculations"

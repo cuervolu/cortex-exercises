@@ -1,4 +1,28 @@
 title: "Reverse String"
-points: 210
-creator: "cuervolu"
-lesson_id: 3
+meta:
+  name: "reverse_string"
+  language: "go"
+  category: "strings"
+  completion_time: "30 minutes"
+  review_status: "beta"
+content:
+  points: 210
+  creator: "cuervolu"
+  lesson_slug: "go-primeros-pasos"
+  display_order: 3
+  difficulty: "BEGINNER"
+  estimated_time: 30
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Go syntax and string handling"
+tags:
+  concepts:
+    - "strings"
+    - "runes"
+    - "unicode"
+  techniques:
+    - "string manipulation"
+    - "rune handling"
+    - "unicode support"

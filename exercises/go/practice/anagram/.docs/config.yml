@@ -1,4 +1,28 @@
 title: "Anagram"
-points: 220
-creator: "cuervolu"
-lesson_id: 3
+meta:
+  name: "anagram"
+  language: "go"
+  category: "strings"
+  completion_time: "40 minutes"
+  review_status: "beta"
+content:
+  points: 220
+  creator: "cuervolu"
+  lesson_slug: "go-primeros-pasos"
+  display_order: 2
+  difficulty: "INTERMEDIATE"
+  estimated_time: 40
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Go syntax and string handling"
+tags:
+  concepts:
+    - "strings"
+    - "runes"
+    - "maps"
+  techniques:
+    - "string manipulation"
+    - "sorting"
+    - "unicode handling"

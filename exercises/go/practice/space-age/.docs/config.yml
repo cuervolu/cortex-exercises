@@ -1,4 +1,31 @@
 title: "Space Age"
-points: 250
-creator: "cuervolu"
-lesson_id: 3
+meta:
+  name: "space_age"
+  language: "go"
+  category: "types"
+  completion_time: "45 minutes"
+  review_status: "beta"
+content:
+  points: 250
+  creator: "cuervolu"
+  lesson_slug: "go-primeros-pasos"
+  display_order: 5
+  difficulty: "INTERMEDIATE"
+  estimated_time: 45
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Go syntax"
+    - name: "Gigasecond"
+      slug: "gigasecond"
+      reason: "Working with types and methods"
+tags:
+  concepts:
+    - "types"
+    - "methods"
+    - "constants"
+  techniques:
+    - "custom types"
+    - "method receivers"
+    - "float calculations"
