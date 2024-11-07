@@ -1,5 +1,23 @@
 title: "Hello, World!"
-points: 200
-creator: "cuervolu"
-lesson_slug: "la-cocina-de-typescript"
-display_order: 1
+meta:
+  name: "hello_world"
+  language: "typescript"
+  category: "basics"
+  completion_time: "25 minutes"
+  review_status: "beta"
+content:
+  points: 200
+  creator: "cuervolu"
+  lesson_slug: "la-cocina-de-typescript"
+  display_order: 1
+  difficulty: "BEGINNER"
+  estimated_time: 25
+tags:
+  concepts:
+    - "types"
+    - "functions"
+    - "modules"
+  techniques:
+    - "type annotations"
+    - "es modules"
+    - "string manipulation"

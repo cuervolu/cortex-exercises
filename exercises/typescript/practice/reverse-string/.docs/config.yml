@@ -1,4 +1,28 @@
 title: "Reverse String"
-points: 240
-creator: "cuervolu"
-lesson_id: 4
+meta:
+  name: "reverse_string"
+  language: "typescript"
+  category: "strings"
+  completion_time: "35 minutes"
+  review_status: "beta"
+content:
+  points: 240
+  creator: "cuervolu"
+  lesson_slug: "la-cocina-de-typescript"
+  display_order: 3
+  difficulty: "BEGINNER"
+  estimated_time: 35
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic TypeScript syntax and string handling"
+tags:
+  concepts:
+    - "string manipulation"
+    - "array methods"
+    - "type inference"
+  techniques:
+    - "string operations"
+    - "array methods"
+    - "type safety"

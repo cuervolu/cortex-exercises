@@ -1,4 +1,28 @@
 title: "Gigasecond"
-points: 215
-creator: "cuervolu"
-lesson_id: 4
+meta:
+  name: "gigasecond"
+  language: "typescript"
+  category: "datetime"
+  completion_time: "30 minutes"
+  review_status: "beta"
+content:
+  points: 215
+  creator: "cuervolu"
+  lesson_slug: "la-cocina-de-typescript"
+  display_order: 4
+  difficulty: "INTERMEDIATE"
+  estimated_time: 30
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic TypeScript concepts"
+tags:
+  concepts:
+    - "Date object"
+    - "type casting"
+    - "number types"
+  techniques:
+    - "date manipulation"
+    - "mathematical operations"
+    - "type assertions"

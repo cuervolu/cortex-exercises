@@ -1,4 +1,33 @@
 title: "Space Age"
-points: 235
-creator: "cuervolu"
-lesson_id: 4
+meta:
+  name: "space_age"
+  language: "typescript"
+  category: "classes"
+  completion_time: "45 minutes"
+  review_status: "beta"
+content:
+  points: 235
+  creator: "cuervolu"
+  lesson_slug: "la-cocina-de-typescript"
+  display_order: 5
+  difficulty: "INTERMEDIATE"
+  estimated_time: 45
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic TypeScript syntax"
+    - name: "Gigasecond"
+      slug: "gigasecond"
+      reason: "Working with types and calculations"
+tags:
+  concepts:
+    - "classes"
+    - "interfaces"
+    - "enums"
+    - "readonly properties"
+  techniques:
+    - "object-oriented programming"
+    - "interface implementation"
+    - "mathematical calculations"
+    - "type narrowing"
