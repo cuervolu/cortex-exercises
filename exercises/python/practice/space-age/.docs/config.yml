@@ -15,7 +15,7 @@ content:
 prerequisites:
   required:
     - name: "Gigasecond"
-      slug: "gigasecond"
+      slug: "gigasecond-python"
       reason: "Time calculations"
 tags:
   concepts:
