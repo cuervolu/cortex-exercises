@@ -1,4 +1,5 @@
 title: "Hello, World!"
 points: 200
 creator: "cuervolu"
-lesson_id: 4
+lesson_slug: "la-cocina-de-typescript"
+display_order: 1
