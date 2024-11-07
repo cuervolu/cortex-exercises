@@ -1,5 +1,22 @@
 title: "Hello World"
-points: 180
-creator: "cuervolu"
-lesson_slug: "tu-primera-taza-de-java"
-display_order: 1
+meta:
+  name: "hello_world"
+  language: "java"
+  category: "basics"
+  completion_time: "30 minutes"
+  review_status: "beta"
+content:
+  points: 180
+  creator: "cuervolu"
+  lesson_slug: "tu-primera-taza-de-java"
+  display_order: 1
+  difficulty: "BEGINNER"
+  estimated_time: 30
+tags:
+  concepts:
+    - "basics"
+    - "classes"
+    - "methods"
+  techniques:
+    - "string manipulation"
+    - "static methods"

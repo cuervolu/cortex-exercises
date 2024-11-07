@@ -1,5 +1,28 @@
 title: "Anagram"
-points: 250
-creator: "cuervolu"
-lesson_slug: "java-para-ninos"
-display_order: 2
+meta:
+  name: "anagram"
+  language: "java"
+  category: "strings"
+  completion_time: "45 minutes"
+  review_status: "beta"
+content:
+  points: 250
+  creator: "cuervolu"
+  lesson_slug: "java-para-ninos"
+  display_order: 2
+  difficulty: "INTERMEDIATE"
+  estimated_time: 45
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Java syntax and string handling"
+tags:
+  concepts:
+    - "strings"
+    - "arrays"
+    - "character manipulation"
+  techniques:
+    - "string manipulation"
+    - "sorting"
+    - "array operations"

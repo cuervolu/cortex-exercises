@@ -1,5 +1,31 @@
 title: "Space Age"
-points: 300
-creator: "cuervolu"
-lesson_slug: "java-para-ninos"
-display_order: 3
+meta:
+  name: "space_age"
+  language: "java"
+  category: "object-oriented"
+  completion_time: "60 minutes"
+  review_status: "beta"
+content:
+  points: 300
+  creator: "cuervolu"
+  lesson_slug: "java-para-ninos"
+  display_order: 3
+  difficulty: "ADVANCED"
+  estimated_time: 60
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Java concepts"
+    - name: "Gigasecond"
+      slug: "gigasecond"
+      reason: "Time calculations and object methods"
+tags:
+  concepts:
+    - "classes"
+    - "enums"
+    - "floating-point arithmetic"
+  techniques:
+    - "object-oriented programming"
+    - "mathematical calculations"
+    - "constant definitions"

@@ -1,5 +1,28 @@
 title: "Reverse String"
-points: 290
-creator: "cuervolu"
-lesson_slug: "los-granos-del-lenguaje"
-display_order: 1
+meta:
+  name: "reverse_string"
+  language: "java"
+  category: "strings"
+  completion_time: "40 minutes"
+  review_status: "beta"
+content:
+  points: 290
+  creator: "cuervolu"
+  lesson_slug: "los-granos-del-lenguaje"
+  display_order: 1
+  difficulty: "INTERMEDIATE"
+  estimated_time: 40
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic string operations and Java syntax"
+tags:
+  concepts:
+    - "strings"
+    - "arrays"
+    - "StringBuilder"
+  techniques:
+    - "string manipulation"
+    - "character arrays"
+    - "buffer handling"

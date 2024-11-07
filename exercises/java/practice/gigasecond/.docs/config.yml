@@ -1,5 +1,28 @@
 title: "Gigasecond"
-points: 210
-creator: "cuervolu"
-lesson_slug: "java-para-ninos"
-display_order: 2
+meta:
+  name: "gigasecond"
+  language: "java"
+  category: "datetime"
+  completion_time: "45 minutes"
+  review_status: "beta"
+content:
+  points: 210
+  creator: "cuervolu"
+  lesson_slug: "java-para-ninos"
+  display_order: 2
+  difficulty: "INTERMEDIATE"
+  estimated_time: 45
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Java syntax and class structure"
+tags:
+  concepts:
+    - "datetime"
+    - "java.time API"
+    - "immutable objects"
+  techniques:
+    - "time manipulation"
+    - "duration calculations"
+    - "static methods"
