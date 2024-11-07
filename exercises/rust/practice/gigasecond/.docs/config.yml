@@ -1,5 +1,28 @@
 title: "Gigasecond"
-points: 230
-creator: "cuervolu"
-lesson_slug: "aprende-la-magia-de-rust"
-display_order: 1
+meta:
+  name: "gigasecond"
+  language: "rust"
+  category: "time"
+  completion_time: "45 minutes"
+  review_status: "beta"
+content:
+  points: 230
+  creator: "cuervolu"
+  lesson_slug: "aprende-la-magia-de-rust"
+  display_order: 1
+  difficulty: "INTERMEDIATE"
+  estimated_time: 45
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Rust syntax and types"
+tags:
+  concepts:
+    - "chrono"
+    - "traits"
+    - "external crates"
+  techniques:
+    - "time manipulation"
+    - "dependency management"
+    - "type conversion"

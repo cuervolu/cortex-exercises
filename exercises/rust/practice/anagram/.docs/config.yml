@@ -1,5 +1,30 @@
 title: "Anagram"
-points: 250
-creator: "cuervolu"
-lesson_slug: "el-zoo-de-los-datos-y-la-ciudad-de-la-memoria"
-display_order: 1
+meta:
+  name: "anagram"
+  language: "rust"
+  category: "strings"
+  completion_time: "50 minutes"
+  review_status: "beta"
+content:
+  points: 250
+  creator: "cuervolu"
+  lesson_slug: "el-zoo-de-los-datos-y-la-ciudad-de-la-memoria"
+  display_order: 1
+  difficulty: "INTERMEDIATE"
+  estimated_time: 50
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Rust syntax and string handling"
+tags:
+  concepts:
+    - "strings"
+    - "vectors"
+    - "ownership"
+    - "borrowing"
+  techniques:
+    - "string manipulation"
+    - "sorting"
+    - "memory management"
+    - "iterators"

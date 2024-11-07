@@ -1,5 +1,23 @@
 title: "Hello, World!"
-points: 210
-creator: "cuervolu"
-lesson_slug: "los-super-heroes-rust"
-display_order: 1
+meta:
+  name: "hello_world"
+  language: "rust"
+  category: "basics"
+  completion_time: "30 minutes"
+  review_status: "beta"
+content:
+  points: 210
+  creator: "cuervolu"
+  lesson_slug: "los-super-heroes-rust"
+  display_order: 1
+  difficulty: "BEGINNER"
+  estimated_time: 30
+tags:
+  concepts:
+    - "functions"
+    - "modules"
+    - "strings"
+  techniques:
+    - "string literals"
+    - "cargo management"
+    - "module system"

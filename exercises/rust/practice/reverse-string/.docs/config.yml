@@ -1,5 +1,30 @@
 title: "Reverse String"
-points: 260
-creator: "cuervolu"
-lesson_slug: "el-zoo-de-los-datos-y-la-ciudad-de-la-memoria"
-display_order: 2
+meta:
+  name: "reverse_string"
+  language: "rust"
+  category: "strings"
+  completion_time: "40 minutes"
+  review_status: "beta"
+content:
+  points: 260
+  creator: "cuervolu"
+  lesson_slug: "el-zoo-de-los-datos-y-la-ciudad-de-la-memoria"
+  display_order: 2
+  difficulty: "INTERMEDIATE"
+  estimated_time: 40
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Rust syntax and string handling"
+tags:
+  concepts:
+    - "strings"
+    - "unicode"
+    - "iterators"
+    - "ownership"
+  techniques:
+    - "string manipulation"
+    - "utf-8 handling"
+    - "iterator methods"
+    - "memory safety"

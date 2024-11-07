@@ -1,5 +1,33 @@
 title: "Space Age"
-points: 300
-creator: "cuervolu"
-lesson_slug: "aprende-la-magia-de-rust"
-display_order: 2
+meta:
+  name: "space_age"
+  language: "rust"
+  category: "traits"
+  completion_time: "60 minutes"
+  review_status: "beta"
+content:
+  points: 300
+  creator: "cuervolu"
+  lesson_slug: "aprende-la-magia-de-rust"
+  display_order: 2
+  difficulty: "ADVANCED"
+  estimated_time: 60
+prerequisites:
+  required:
+    - name: "Hello World"
+      slug: "hello-world"
+      reason: "Basic Rust syntax"
+    - name: "Gigasecond"
+      slug: "gigasecond"
+      reason: "Working with types and traits"
+tags:
+  concepts:
+    - "traits"
+    - "structs"
+    - "impl blocks"
+    - "floating-point"
+  techniques:
+    - "trait implementation"
+    - "mathematical operations"
+    - "type safety"
+    - "error handling"
