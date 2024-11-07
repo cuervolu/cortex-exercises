@@ -15,10 +15,10 @@ content:
 prerequisites:
   required:
     - name: "Hello World"
-      slug: "hello-world"
+      slug: "hello-world-go"
       reason: "Basic Go syntax"
     - name: "Gigasecond"
-      slug: "gigasecond"
+      slug: "gigasecond-go"
       reason: "Working with types and methods"
 tags:
   concepts:
